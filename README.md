@@ -1,4 +1,4 @@
-# <text-aling center> CONVERSOR DE TEMPERATURA 
+# CONVERSOR DE TEMPERATURA 
 
 ## **Conversor de Temperatura (Fahrenheit á Celsius)**
 
